@@ -1,8 +1,8 @@
 # Open Source Audit — Python
 
 ## Student Details
-- **Name:** [Your Name]  
-- **Registration Number:** [Your Reg No]  
+- **Name:** Mohammad Ayaan Shaikh 
+- **Registration Number:** 24BCE10428
 - **Course:** Open Source Software  
 
 ---
